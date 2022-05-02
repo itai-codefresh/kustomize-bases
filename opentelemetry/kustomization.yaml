@@ -6,5 +6,5 @@ resources:
   - github.com/errordeveloper/opentelemetry-operator/config/default?ref=8dc2adbe24fb37859c3917e5991a13b551db3e3c
 images:
 - name: controller
-  newName: quay.io/opentelemetry/opentelemetry-operator
+  newName: opentelemetry/opentelemetry-operator
   newTag: v0.50.0
